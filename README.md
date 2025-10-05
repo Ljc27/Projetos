@@ -1,1 +1,1 @@
-# Projetos
+1° Projeto realizado para o componente curricular de Matemática aplicada à computação (MAC). Tendo como requisito a construção de um programa utilizando matrizes. Tema do projeto: Jogo da memória Integrantes: Arthur Macêdo, Lázaro Araújo e Wallif Ruan.
